@@ -34,3 +34,10 @@ git status
 ======================Switch branch======================
 -> use some command line
 git checkout username
+
+======================Remind======================
+DON'T FORGET TO push YOUR CODE 
+
+
+
+                                                !!!GOOD LUCK!!!
